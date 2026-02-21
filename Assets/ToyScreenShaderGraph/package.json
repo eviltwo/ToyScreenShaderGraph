@@ -1,0 +1,17 @@
+{
+    "name": "com.eviltwo.toy-screen-shader-graph",
+    "displayName": "ToyScreenShaderGraph",
+    "version": "1.0.0",
+    "unity": "6000.0",
+    "description": "Toy Screen Shader Graph",
+    "author": {
+        "name": "DAIKI(eviltwo)",
+        "url": "https://github.com/eviltwo"
+    },
+
+    "keywords": [
+    ],
+
+    "dependencies": {
+    }
+}
