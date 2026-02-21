@@ -3,5 +3,5 @@
 
 # Install with UPM
 ```
-https://github.com/eviltwo/ToyScreenShaderGraph.git?path=Assets/PolyMeshTools
+https://github.com/eviltwo/ToyScreenShaderGraph.git?path=Assets/ToyScreenShaderGraph
 ```
